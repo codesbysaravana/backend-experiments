@@ -72,7 +72,12 @@ const startRedis = async (port, dir, extraArgs = []) => {
  * @param {number} port - Redis port.
  * @returns {IORedis}
  */
-const conn = (port) => new IORedis(port, { maxRetriesPerRequest: null });
+const conn = (port) => {
+  const client = new IORedis(port, { maxRetriesPerRequest: null });
+  // Suppress unhandled error logs when test harness deliberately sends SIGKILL to Redis
+  client.on('error', () => {});
+  return client;
+};
 
 module.exports = {
   OUT,
