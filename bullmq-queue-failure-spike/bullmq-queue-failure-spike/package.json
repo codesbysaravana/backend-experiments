@@ -1,12 +1,26 @@
 {
-  "name": "spike",
+  "name": "bullmq-queue-failure-spike",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "BullMQ failure mode experiments: worker crashes, event loop blocking, Redis persistence, and idempotency guards",
+  "main": "s1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node s1.js",
+    "scenario:1": "node s1.js",
+    "scenario:1:d-only": "node -e \"process.env.ONLY_D=1; require('./s1.js');\"",
+    "scenario:2": "node s2.js",
+    "scenario:2b": "node s2b.js",
+    "scenario:3": "node s3.js",
+    "observability": "node obs.js",
+    "lint": "npx eslint ."
   },
-  "keywords": [],
+  "keywords": [
+    "bullmq",
+    "redis",
+    "queue",
+    "failure-injection",
+    "idempotency",
+    "stalled-jobs"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
