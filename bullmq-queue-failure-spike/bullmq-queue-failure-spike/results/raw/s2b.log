@@ -1,0 +1,710 @@
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6701
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6701
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6701
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6701
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_all_200","trial":1,"enqueued":200,"rdb_last_save_time_unix":"1792069759","rdb_changes_since_last_save":"0","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6702
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6702
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6702
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6702
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6702
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6702
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_all_200","trial":2,"enqueued":200,"rdb_last_save_time_unix":"1792069760","rdb_changes_since_last_save":"0","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6703
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6703
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6703
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6703
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_all_200","trial":3,"enqueued":200,"rdb_last_save_time_unix":"1792069761","rdb_changes_since_last_save":"0","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6704
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6704
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6704
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6704
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_all_200","trial":4,"enqueued":200,"rdb_last_save_time_unix":"1792069761","rdb_changes_since_last_save":"0","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6705
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6705
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6705
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6705
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_all_200","trial":5,"enqueued":200,"rdb_last_save_time_unix":"1792069762","rdb_changes_since_last_save":"0","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6701
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6701
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6701
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6701
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_first_100","trial":1,"enqueued":200,"rdb_last_save_time_unix":"1792069763","rdb_changes_since_last_save":"1000","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":100,"lost":100}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6702
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6702
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6702
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6702
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6702
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6702
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_first_100","trial":2,"enqueued":200,"rdb_last_save_time_unix":"1792069764","rdb_changes_since_last_save":"1000","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":100,"lost":100}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6703
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6703
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6703
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6703
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_first_100","trial":3,"enqueued":200,"rdb_last_save_time_unix":"1792069765","rdb_changes_since_last_save":"1000","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":100,"lost":100}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6704
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6704
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6704
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6704
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_first_100","trial":4,"enqueued":200,"rdb_last_save_time_unix":"1792069765","rdb_changes_since_last_save":"1000","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":100,"lost":100}
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6705
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6705
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6705
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6705
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6705
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6705
+    }
+  ]
+}
+{"config":"rdb_default_save_SAVE_after_first_100","trial":5,"enqueued":200,"rdb_last_save_time_unix":"1792069766","rdb_changes_since_last_save":"1000","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":true,"waiting_after_restart":100,"lost":100}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6701
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6701
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6701
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6701
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6701
+    }
+  ]
+}
+{"config":"rdb_default_save_no_SAVE","trial":1,"enqueued":200,"rdb_last_save_time_unix":"1792069767","rdb_changes_since_last_save":"2004","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":false,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6702
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6702
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6702
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6702
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6702
+    }
+  ]
+}
+{"config":"rdb_default_save_no_SAVE","trial":2,"enqueued":200,"rdb_last_save_time_unix":"1792069767","rdb_changes_since_last_save":"2004","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":false,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6703
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6703
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6703
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6703
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6703
+    }
+  ]
+}
+{"config":"rdb_default_save_no_SAVE","trial":3,"enqueued":200,"rdb_last_save_time_unix":"1792069768","rdb_changes_since_last_save":"2004","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":false,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6704
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6704
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6704
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6704
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6704
+    }
+  ]
+}
+{"config":"rdb_default_save_no_SAVE","trial":4,"enqueued":200,"rdb_last_save_time_unix":"1792069769","rdb_changes_since_last_save":"2004","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":false,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6705
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6705
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6705
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6705
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6705
+    }
+  ]
+}
+{"config":"rdb_default_save_no_SAVE","trial":5,"enqueued":200,"rdb_last_save_time_unix":"1792069770","rdb_changes_since_last_save":"2004","rdb_last_bgsave_status":"ok","rdb_file_exists_before_kill":false,"waiting_after_restart":0,"lost":200}
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)

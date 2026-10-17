@@ -1,0 +1,1993 @@
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6501
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6501
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6501
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6501
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6501
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6501
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6501
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6501
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":0,"trial":1,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6502
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6502
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6502
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6502
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6502
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6502
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6502
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6502
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":0,"trial":2,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6503
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6503
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6503
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6503
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6503
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6503
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6503
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6503
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6503
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6503
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6503
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6503
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":0,"trial":3,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6504
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6504
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6504
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6504
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6504
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6504
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6504
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6504
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":0,"trial":4,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6505
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6505
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6505
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6505
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6505
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6505
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6505
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6505
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":0,"trial":5,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6506
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6506
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6506
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6506
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6506
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6506
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6506
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6506
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":2000,"trial":1,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6507
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6507
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6507
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6507
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6507
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6507
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6507
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6507
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6507
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6507
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6507
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6507
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":2000,"trial":2,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6508
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6508
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6508
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6508
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6508
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6508
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6508
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6508
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":2000,"trial":3,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6509
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6509
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6509
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6509
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6509
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6509
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6509
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6509
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6509
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6509
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6509
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6509
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":2000,"trial":4,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6510
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6510
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6510
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6510
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6510
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6510
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6510
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6510
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6510
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6510
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6510
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6510
+    }
+  ]
+}
+{"config":"aof_everysec","kill_after_ms":2000,"trial":5,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6511
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6511
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6511
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6511
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6511
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6511
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6511
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6511
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6511
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6511
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6511
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6511
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":0,"trial":1,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6512
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6512
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6512
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6512
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6512
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6512
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6512
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6512
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6512
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6512
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6512
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6512
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":0,"trial":2,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6513
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6513
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6513
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6513
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6513
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6513
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6513
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6513
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":0,"trial":3,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6514
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6514
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6514
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6514
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6514
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6514
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6514
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6514
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6514
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6514
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6514
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6514
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":0,"trial":4,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6515
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6515
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6515
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6515
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6515
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6515
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6515
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6515
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":0,"trial":5,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6516
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6516
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6516
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6516
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6516
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6516
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6516
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6516
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":2000,"trial":1,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6517
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6517
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6517
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6517
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6517
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6517
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6517
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6517
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":2000,"trial":2,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6518
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6518
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6518
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6518
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6518
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6518
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6518
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6518
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":2000,"trial":3,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6519
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6519
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6519
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6519
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6519
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6519
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6519
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6519
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":2000,"trial":4,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6520
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6520
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6520
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6520
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6520
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6520
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6520
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6520
+    }
+  ]
+}
+{"config":"aof_always","kill_after_ms":2000,"trial":5,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":200,"lost":0}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6521
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6521
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6521
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6521
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6521
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6521
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6521
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6521
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":0,"trial":1,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6522
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6522
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6522
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6522
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6522
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6522
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6522
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6522
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":0,"trial":2,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6523
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6523
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6523
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6523
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6523
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6523
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6523
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6523
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6523
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6523
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6523
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6523
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":0,"trial":3,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6524
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6524
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6524
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6524
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6524
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6524
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6524
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6524
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":0,"trial":4,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6525
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6525
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6525
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6525
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6525
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6525
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6525
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6525
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":0,"trial":5,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6526
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6526
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6526
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6526
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6526
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6526
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6526
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6526
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":2000,"trial":1,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6527
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6527
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6527
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6527
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6527
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6527
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6527
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6527
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6527
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6527
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6527
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6527
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":2000,"trial":2,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6528
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6528
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6528
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6528
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6528
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6528
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6528
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6528
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":2000,"trial":3,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6529
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6529
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6529
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6529
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6529
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6529
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6529
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6529
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6529
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6529
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6529
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6529
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":2000,"trial":4,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6530
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6530
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6530
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6530
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6530
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6530
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6530
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6530
+    }
+  ]
+}
+{"config":"rdb_default_save","kill_after_ms":2000,"trial":5,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6531
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6531
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6531
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6531
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6531
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6531
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6531
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6531
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":0,"trial":1,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6532
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6532
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6532
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6532
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6532
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6532
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6532
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6532
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6532
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6532
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6532
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6532
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":0,"trial":2,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6533
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6533
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6533
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6533
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6533
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6533
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6533
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6533
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6533
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6533
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6533
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6533
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":0,"trial":3,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6534
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6534
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6534
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6534
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6534
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6534
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6534
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6534
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6534
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6534
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6534
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6534
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":0,"trial":4,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6535
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6535
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6535
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6535
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6535
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6535
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6535
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6535
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":0,"trial":5,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6536
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6536
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6536
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6536
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6536
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6536
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6536
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6536
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":2000,"trial":1,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6537
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6537
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6537
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6537
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6537
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6537
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6537
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6537
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":2000,"trial":2,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6538
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6538
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6538
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6538
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6538
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6538
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6538
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6538
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":2000,"trial":3,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6539
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6539
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6539
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6539
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6539
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6539
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6539
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6539
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":2000,"trial":4,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6540
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6540
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6540
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6540
+    }
+  ]
+}
+AggregateError [ECONNREFUSED]: 
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:6540
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 6540
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:6540
+        at createConnectionError (node:net:1679:14)
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 6540
+    }
+  ]
+}
+{"config":"no_persistence","kill_after_ms":2000,"trial":5,"enqueued":200,"waiting_before_kill":200,"waiting_after_restart":0,"lost":200}

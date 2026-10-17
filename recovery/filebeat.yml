@@ -1,0 +1,14 @@
+filebeat.inputs:
+- type: aws-cloudwatch
+  # We use your AWS credentials (passed in via Docker) to read the logs
+  access_key_id: '${AWS_ACCESS_KEY_ID}'
+  secret_access_key: '${AWS_SECRET_ACCESS_KEY}'
+  # This is the exact name AWS uses for your RDS logs POINTING TO RDS CLOUDWATCH
+  log_group_arn: arn:aws:logs:us-east-1:021461613547:log-group:/aws/rds/instance/chaos-primary/postgresql:*
+  region_name: us-east-1
+
+output.elasticsearch:
+  hosts: ["http://elasticsearch:9200"]
+
+setup.kibana:
+  host: "http://kibana:5601"

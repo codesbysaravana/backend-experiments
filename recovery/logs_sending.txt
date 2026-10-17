@@ -1,0 +1,45 @@
+by default RDS wont log all db queries since itll be way too expensive to store so
+so first turn it on on RDS for kibana
+
+1. create a parameter in RDS
+2. click and do Search log_statement -> Change to all (Logs every query).
+Search log_min_duration_statement -> Change to 0 (Logs the execution time of every query).
+
+running elasticsearch and kibana side by side, 
+inn locally docker container
+
+after available in db RDS, activate readreplica
+and take the url and dump the schema from psql to there 
+can get the endpoint in connectivty 
+psql -h chaos-primary-db.cg9886giozlh.us-east-1.rds.amazonaws.com -U postgres -d postgres -f schema.sql
+
+while createing db, check the  boc of postgres logs n tick it
+
+#CLIENT VS PG
+The Client class in the node-postgres (pg) module represents a single, individual database connection that you manually open and close. 
+You use Client specifically when:
+You are writing a one-off script or migration tool that runs sequentially.
+You need to manage transactions that require multiple queries to execute on the exact same connection.
+You want full control over the connection lifecycle (opening, querying, and ending). 
+In contrast, a Pool is used for web applications or high-traffic services to reuse connections efficiently, avoiding the performance cost of opening and closing new connections for every request.  While Client provides direct access to the underlying query interface, it is not designed for handling concurrent requests like a pool is.
+
+
+
+
+FILEBEAT
+Filebeat is already shoving data straight into Elasticsearch. We just need to tell Kibana to look at it.
+
+
+KIBANA 
+1. create a stack managment (we dont need no integrations,  we have filebeat a gigachad)
+2. create kibana data view 
+
+note if this isi hanging
+psql "host=chaos-primary-db.cg9886giozlh.us-east-1.rds.amazonaws.com user=postgres dbname=postgres sslmode=require" -f schema.sql
+
+usually means  securitygroups not config to my lap (anywhere ipv4 and source for pg)
+
+
+
+
+in prod AWS does multi AZ deployment which manually does the work meaning, (it will resolve the DNS for us for the new read replica being promoted to primary DB)

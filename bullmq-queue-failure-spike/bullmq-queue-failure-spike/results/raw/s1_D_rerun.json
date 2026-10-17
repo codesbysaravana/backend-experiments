@@ -1,0 +1,67 @@
+[
+ {
+  "variant": "D_blocked_event_loop_1job",
+  "trial": 1,
+  "jobs": 1,
+  "completed": 1,
+  "failed": 0,
+  "still_waiting_or_active": 0,
+  "jobs_started_more_than_once": 1,
+  "jobs_with_duplicate_effect": 1,
+  "jobs_with_no_effect": 0,
+  "seconds_to_all_terminal": 8.5,
+  "events": "stalled j0 | stalled j0 | error Missing lock for job j0. moveToFinished | error Missing lock for job j0. moveToFinished"
+ },
+ {
+  "variant": "D_blocked_event_loop_1job",
+  "trial": 2,
+  "jobs": 1,
+  "completed": 1,
+  "failed": 0,
+  "still_waiting_or_active": 0,
+  "jobs_started_more_than_once": 1,
+  "jobs_with_duplicate_effect": 1,
+  "jobs_with_no_effect": 0,
+  "seconds_to_all_terminal": 8.5,
+  "events": "stalled j0 | stalled j0 | error Missing lock for job j0. moveToFinished | error Missing lock for job j0. moveToFinished"
+ },
+ {
+  "variant": "D_blocked_event_loop_1job",
+  "trial": 3,
+  "jobs": 1,
+  "completed": 1,
+  "failed": 0,
+  "still_waiting_or_active": 0,
+  "jobs_started_more_than_once": 1,
+  "jobs_with_duplicate_effect": 1,
+  "jobs_with_no_effect": 0,
+  "seconds_to_all_terminal": 8.5,
+  "events": "stalled j0 | stalled j0 | error Missing lock for job j0. moveToFinished | error Missing lock for job j0. moveToFinished"
+ },
+ {
+  "variant": "D_blocked_event_loop_1job",
+  "trial": 4,
+  "jobs": 1,
+  "completed": 1,
+  "failed": 0,
+  "still_waiting_or_active": 0,
+  "jobs_started_more_than_once": 1,
+  "jobs_with_duplicate_effect": 1,
+  "jobs_with_no_effect": 0,
+  "seconds_to_all_terminal": 8.4,
+  "events": "stalled j0 | stalled j0 | error Missing lock for job j0. moveToFinished | error Missing lock for job j0. moveToFinished"
+ },
+ {
+  "variant": "D_blocked_event_loop_1job",
+  "trial": 5,
+  "jobs": 1,
+  "completed": 1,
+  "failed": 0,
+  "still_waiting_or_active": 0,
+  "jobs_started_more_than_once": 1,
+  "jobs_with_duplicate_effect": 1,
+  "jobs_with_no_effect": 0,
+  "seconds_to_all_terminal": 8.4,
+  "events": "stalled j0 | stalled j0 | error Missing lock for job j0. moveToFinished | error Missing lock for job j0. moveToFinished"
+ }
+]

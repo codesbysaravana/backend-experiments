@@ -1,0 +1,6 @@
+apiVersion: 1
+providers:
+  - name: spike
+    type: file
+    options:
+      path: /tmp/obs/dash

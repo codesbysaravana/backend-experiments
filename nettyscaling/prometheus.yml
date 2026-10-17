@@ -1,0 +1,10 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: 'netty-server'
+    static_configs:
+      - targets: ['35.153.198.188:8000']
+  - job_name: 'node'
+    static_configs:
+      - targets: ['35.153.198.188:9100']

@@ -1,0 +1,362 @@
+[
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 0,
+  "trial": 1,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 0,
+  "trial": 2,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 0,
+  "trial": 3,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 0,
+  "trial": 4,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 0,
+  "trial": 5,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 2000,
+  "trial": 1,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 2000,
+  "trial": 2,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 2000,
+  "trial": 3,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 2000,
+  "trial": 4,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_everysec",
+  "kill_after_ms": 2000,
+  "trial": 5,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 0,
+  "trial": 1,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 0,
+  "trial": 2,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 0,
+  "trial": 3,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 0,
+  "trial": 4,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 0,
+  "trial": 5,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 2000,
+  "trial": 1,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 2000,
+  "trial": 2,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 2000,
+  "trial": 3,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 2000,
+  "trial": 4,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "aof_always",
+  "kill_after_ms": 2000,
+  "trial": 5,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 200,
+  "lost": 0
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 0,
+  "trial": 1,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 0,
+  "trial": 2,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 0,
+  "trial": 3,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 0,
+  "trial": 4,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 0,
+  "trial": 5,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 2000,
+  "trial": 1,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 2000,
+  "trial": 2,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 2000,
+  "trial": 3,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 2000,
+  "trial": 4,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "rdb_default_save",
+  "kill_after_ms": 2000,
+  "trial": 5,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 0,
+  "trial": 1,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 0,
+  "trial": 2,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 0,
+  "trial": 3,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 0,
+  "trial": 4,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 0,
+  "trial": 5,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 2000,
+  "trial": 1,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 2000,
+  "trial": 2,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 2000,
+  "trial": 3,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 2000,
+  "trial": 4,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ },
+ {
+  "config": "no_persistence",
+  "kill_after_ms": 2000,
+  "trial": 5,
+  "enqueued": 200,
+  "waiting_before_kill": 200,
+  "waiting_after_restart": 0,
+  "lost": 200
+ }
+]

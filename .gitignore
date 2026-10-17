@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build output
+build/
+dist/
+out/
+*.jar
+
+# Gradle
+.gradle/
+nettyscaling/.gradle/
+nettyscaling/build/
+nettyscaling/app/build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / Secrets
+.env
+.env.*
+*.pem
+*.key
+*accessKeys*
+*.csv
+
+# Logs
+*.log
+
+# Temporary / Extras
+tmp/
+temp/
+extras/
+**/extras/

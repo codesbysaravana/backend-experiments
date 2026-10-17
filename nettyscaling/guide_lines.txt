@@ -1,0 +1,8 @@
+Set billing alarm at $20
+Launch c6i.4xlarge Spot — server instance
+Launch c6i.2xlarge Spot — load generator instance (separate)
+SSH in, copy your jar, run server
+Run wrk from the load generator
+Watch Prometheus metrics live
+Tune → benchmark → repeat
+Terminate both instances when done

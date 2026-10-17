@@ -1,0 +1,5 @@
+{"variant":"A_no_guard","trial":1,"jobs":30,"completed":30,"failed":0,"still_waiting_or_active":0,"jobs_started_more_than_once":5,"jobs_with_duplicate_effect":5,"jobs_with_no_effect":0,"seconds_to_all_terminal":9.8}
+{"variant":"C_maxStalled0","trial":1,"jobs":30,"completed":25,"failed":5,"still_waiting_or_active":0,"jobs_started_more_than_once":0,"jobs_with_duplicate_effect":0,"jobs_with_no_effect":0,"seconds_to_all_terminal":8.4}
+{"variant":"E_nonatomic_guard","trial":1,"jobs":30,"completed":30,"failed":0,"still_waiting_or_active":0,"jobs_started_more_than_once":5,"jobs_with_duplicate_effect":0,"jobs_with_no_effect":5,"seconds_to_all_terminal":11.6}
+{"variant":"F_atomic_guard_and_effect","trial":1,"jobs":30,"completed":30,"failed":0,"still_waiting_or_active":0,"jobs_started_more_than_once":5,"jobs_with_duplicate_effect":0,"jobs_with_no_effect":0,"seconds_to_all_terminal":9.8}
+DONE; metrics stay up

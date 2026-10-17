@@ -1,0 +1,18 @@
+netty (reactor pattern)
+1. event loop
+2. handlers
+3. channels
+
+bossgroup plus workerGroup threads using channels
+we give each workerGroup based on CPU core count
+
+wrk is a load testing tool used to hammer my server
+wrk -t4 -c100 -d10s http://localhost:8000
+
+threads, concurrent requests, seconds, port
+
+WSL is ubuntu inside windows
+basically creats virtual networks ports even so, inorder to access local host from wsl need to find the port using
+ip route show | grep default | awk '{print $3}'
+
+and ping said port

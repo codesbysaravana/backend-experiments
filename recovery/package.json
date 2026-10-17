@@ -1,0 +1,17 @@
+{
+  "name": "recovery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "load_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "pg": "^8.23.0"
+  }
+}
