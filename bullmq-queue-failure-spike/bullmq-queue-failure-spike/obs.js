@@ -1,16 +1,3 @@
-/**
- * Live Observability Exporter & Scenario Orchestrator.
- *
- * Exposes Prometheus metrics on port 9101 derived directly from durable evidence
- * (durable log files and Redis state) so metrics survive worker SIGKILLs.
- *
- * Runs 4 live scenario variants for visualization on the Grafana dashboard:
- * 1. A_no_guard: Standard worker killed mid-flight (duplicate execution)
- * 2. C_maxStalled0: maxStalledCount=0 (immediate visible failure, no duplicate)
- * 3. E_nonatomic_guard: Crash in between SADD guard and effect (silent loss)
- * 4. F_atomic_guard_and_effect: Atomic Redis Lua script (guaranteed exactly-once)
- */
-
 const http = require('http');
 const client = require('prom-client');
 const { trial } = require('./s3');

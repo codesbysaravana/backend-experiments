@@ -43,3 +43,7 @@ tmp/
 temp/
 extras/
 **/extras/
+
+saravana_results/
+*.txt
+TODO.md
