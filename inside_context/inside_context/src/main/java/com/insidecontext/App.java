@@ -8,6 +8,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 
+import java.util.logging.Logger;
+import java.util.logging.Level;
+import java.util.logging.FileHandler;
+import java.util.logging.SimpleFormatter;
+
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
@@ -27,6 +32,22 @@ public class App {
 
     // Each conversation has its own message history.
     private static final Map<String, List<ObjectNode>> CONVERSATIONS = new ConcurrentHashMap<>();
+
+    //loggers 
+    private static final Logger LOGGER = Logger.getLogger("InsideContext");
+
+    static {
+        try {
+            FileHandler fileHandler = new FileHandler("experiment.log", true);
+            fileHandler.setFormatter(new SimpleFormatter());
+
+            LOGGER.addHandler(fileHandler);
+            LOGGER.setUseParentHandlers(false);
+
+        } catch (IOException e) {
+            throw new RuntimeException("Failed to initialize logger", e);
+        }
+    }
 
     public static void main(String[] args) throws IOException {
 
@@ -53,6 +74,7 @@ public class App {
             String apiKey = System.getenv("OPENAI_API_KEY");
 
             if (apiKey == null || apiKey.isBlank()) {
+                LOGGER.severe("OPENAI_API_KEY is missing");
                 sendResponse(exchange, 500,
                     "Missing API key", "text/plain");
                 return;
@@ -73,6 +95,7 @@ public class App {
                 }
 
                 String userPrompt = promptNode.asText();
+                LOGGER.info("Received /openai request");
 
                 // Get or create conversation ID.
                 JsonNode conversationNode = incoming.get("conversation_id");
@@ -91,6 +114,9 @@ public class App {
                 );
 
                 synchronized (history) {
+
+                    LOGGER.info("Conversation ID: " + conversationId);
+                    LOGGER.info("History messages before request: " + history.size());
 
                     // Construct original payload.
                     ObjectNode payload = mapper.createObjectNode();
@@ -119,6 +145,8 @@ public class App {
                     messages.add(userMessage.deepCopy());
 
                     String jsonBody = mapper.writeValueAsString(payload);
+                    LOGGER.info("Original request message count: " + messages.size());
+                    LOGGER.info("Original request JSON characters: " + jsonBody.length());
 
                     // Build original request.
                     HttpRequest request = HttpRequest.newBuilder()
@@ -131,10 +159,12 @@ public class App {
                         .build();
 
                     // First API call.
+                    LOGGER.info("Sending original API request...");
                     HttpResponse<String> aiResponse = client.send(
                         request,
                         HttpResponse.BodyHandlers.ofString()
                     );
+                    LOGGER.info("Original API HTTP status: " + aiResponse.statusCode());
 
                     // Handle API errors.
                     if (aiResponse.statusCode() < 200 ||
@@ -147,13 +177,13 @@ public class App {
                             .path("code")
                             .asText();
 
-                        System.out.println("API Error Code: " + errorCode);
+                        LOGGER.warning("API Error Code: " + errorCode);
 
                         // Context window exceeded.
                         if ("context_length_exceeded".equals(errorCode)) {
 
-                            System.out.println("Context limit exceeded!");
-                            System.out.println("Rebuilding conversation history...");
+                            LOGGER.warning("Context limit exceeded!");
+                            LOGGER.info("Rebuilding conversation history...");
                             
                             // Construct retry payload.
                             ObjectNode retryPayload = mapper.createObjectNode();
@@ -162,8 +192,6 @@ public class App {
                             ArrayNode retryMessages =
                                 retryPayload.putArray("messages");
                             
-                            System.out.println("RETRY JSON BODY: " + retryPayload.toString());
-
                             // 1. Preserve system message.
                             ObjectNode retrySystem = retryMessages.addObject();
                             retrySystem.put("role", "system");
@@ -193,17 +221,22 @@ public class App {
                             // 4. Preserve current user prompt.
                             retryMessages.add(userMessage.deepCopy());
 
-                            System.out.println(
+                            LOGGER.info(
                                 "Original history messages: " + history.size()
                             );
 
-                            System.out.println(
+                            LOGGER.info(
                                 "Retry messages: " + retryMessages.size()
                             );
 
                             // Build retry request.
                             String retryBody =
                                 mapper.writeValueAsString(retryPayload);
+
+                            LOGGER.info("RETRY JSON BODY: " + retryBody);
+                            LOGGER.info("Original history messages: " + history.size());
+                            LOGGER.info("Retry messages: " + retryMessages.size());
+                            LOGGER.info("Retry JSON characters: " + retryBody.length());
 
                             HttpRequest retryRequest = HttpRequest.newBuilder()
                                 .uri(URI.create(
@@ -217,14 +250,14 @@ public class App {
                                 .build();
 
                             // Retry exactly ONCE.
-                            System.out.println("Retrying API request...");
+                            LOGGER.info("Retrying API request...");
 
                             aiResponse = client.send(
                                 retryRequest,
                                 HttpResponse.BodyHandlers.ofString()
                             );
 
-                            System.out.println(
+                            LOGGER.info(
                                 "Retry HTTP Status: " + aiResponse.statusCode()
                             );
                         }
@@ -233,6 +266,9 @@ public class App {
                         // or the retry also failed, return the API error.
                         if (aiResponse.statusCode() < 200 ||
                             aiResponse.statusCode() >= 300) {
+
+                            LOGGER.severe("OpenAI request failed. HTTP status: "
+                                + aiResponse.statusCode() + ", response: " + aiResponse.body());
 
                             sendResponse(
                                 exchange,
@@ -284,13 +320,13 @@ public class App {
                     int completionTokens = usage.path("completion_tokens").asInt();
                     int totalTokens = usage.path("total_tokens").asInt();
 
-                    System.out.println("==============================");
-                    System.out.println("Conversation ID: " + conversationId);
-                    System.out.println("Prompt Tokens: " + promptTokens);
-                    System.out.println("Completion Tokens: " + completionTokens);
-                    System.out.println("Total Tokens: " + totalTokens);
-                    System.out.println("Messages Stored: " + history.size());
-                    System.out.println("==============================");
+                    LOGGER.info("==============================");
+                    LOGGER.info("Conversation ID: " + conversationId);
+                    LOGGER.info("Prompt Tokens: " + promptTokens);
+                    LOGGER.info("Completion Tokens: " + completionTokens);
+                    LOGGER.info("Total Tokens: " + totalTokens);
+                    LOGGER.info("Messages Stored: " + history.size());
+                    LOGGER.info("==============================");
 
                     sendResponse(
                         exchange,
@@ -309,7 +345,7 @@ public class App {
 
             } catch (Exception e) {
 
-                e.printStackTrace();
+                LOGGER.log(Level.SEVERE, "Error while handling /openai request", e);
 
                 sendResponse(exchange, 500,
                     "Internal server error", "text/plain");
@@ -345,6 +381,11 @@ public class App {
 
                 synchronized (convo) {
 
+                    LOGGER.info("Received /stuff request");
+                    LOGGER.info("Conversation ID: " + conversationIdAsString);
+                    LOGGER.info("Requested dummy message pairs: " + countAsInt);
+                    LOGGER.info("Messages before /stuff: " + convo.size());
+
                     long total = 0;
 
                     ObjectNode userMessage = mapper.createObjectNode();
@@ -371,6 +412,9 @@ public class App {
 
                     long estimatedTokens = total / 4;
 
+                    LOGGER.info("Messages after /stuff: " + convo.size());
+                    LOGGER.info("Estimated tokens (characters / 4): " + estimatedTokens);
+
                     ObjectNode response = mapper.createObjectNode();
 
                     response.put("messages_stored", convo.size());
@@ -385,7 +429,7 @@ public class App {
                 }
 
             } catch (Exception e) {
-                e.printStackTrace();
+                LOGGER.log(Level.SEVERE, "Error while handling /stuff request", e);
 
                 sendResponse(exchange, 500,
                     "Internal server error",
@@ -395,7 +439,7 @@ public class App {
 
         server.start();
 
-        System.out.println("Server running on port 8081");
+        LOGGER.info("Server running on port 8081");
     }
 
     private static void sendResponse(
